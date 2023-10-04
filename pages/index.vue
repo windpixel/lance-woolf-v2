@@ -23,6 +23,9 @@
     <NuxtLink to="/about">
       <TButton>About</TButton>
     </NuxtLink>
+        <NuxtLink to="/hero">
+      <TButton>About</TButton>
+    </NuxtLink>
   </div>
 </template>
 
